@@ -153,11 +153,13 @@
   <ItemGroup>
     <ClInclude Include="CIS023_S2020_Lab11b Miguel Antonio Logarta.h" />
     <ClInclude Include="framework.h" />
+    <ClInclude Include="PeopleClass.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CIS023_S2020_Lab11b Miguel Antonio Logarta.cpp" />
+    <ClCompile Include="PeopleClass.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="CIS023_S2020_Lab11b Miguel Antonio Logarta.rc" />
